@@ -1,0 +1,16 @@
+{
+  "id": 3808,
+  "name": "Renault KWID 1.0",
+  "year": 2018,
+  "km_driven": 25000,
+  "fuel": "Petrol",
+  "seller_type": "Individual",
+  "transmission": "Manual",
+  "mileage": "23.01 kmpl",
+  "engine": "999 CC",
+  "max_power": "67 bhp",
+  "torque": "91Nm@ 4250rpm",
+  "seats": 5.0,
+  "dt_current_timestamp": "2024-04-23 09:12:44.326",
+  "user_id": 22547
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5284,
+  "uid": "5889e1b6-4a1a-4e00-b04c-5e632c068524",
+  "password": "pJnSmhBsuo",
+  "first_name": "Young",
+  "last_name": "Oberbrunner",
+  "username": "young.oberbrunner",
+  "email": "young.oberbrunner@email.com",
+  "gender": "Female",
+  "phone_number": "+66 1-477-037-2469",
+  "social_insurance_number": "182300939",
+  "date_of_birth": "1970-02-09",
+  "employment": {
+    "title": "Real-Estate Manager",
+    "key_skill": "Organisation"
+  },
+  "address": {
+    "city": "South Lilly",
+    "street_name": "Jerry Circles",
+    "street_address": "363 Gilbert Fords",
+    "zip_code": "35356-3078",
+    "state": "New York",
+    "country": "United States",
+    "coordinates": {
+      "lat": 22.2182546313,
+      "lng": 171.6012210727
+    }
+  },
+  "credit_card": {
+    "cc_number": "4969-2702-0105-8328"
+  },
+  "subscription": {
+    "plan": "Gold",
+    "status": "Pending",
+    "payment_method": "Cash",
+    "term": "Annual"
+  },
+  "user_id": 21503,
+  "dt_current_timestamp": "2024-04-23 09:13:05.932",
+  "cpf": "061.301.339-52"
+}

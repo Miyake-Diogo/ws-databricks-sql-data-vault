@@ -1,0 +1,16 @@
+{
+  "user_id": 8182,
+  "vehicle_id": 2871,
+  "time_stamp": 1543350982599,
+  "source": "West End",
+  "destination": "South Station",
+  "distance": 2.14,
+  "price": 8.5,
+  "surge_multiplier": 1.0,
+  "id": "3dc2d1f1-8fd2-4cfc-acb1-a1b4ad51a1df",
+  "product_id": "55c66225-fbe7-4fd5-9072-eab1ece5e23e",
+  "name": "UberX",
+  "cab_type": "Uber",
+  "dt_current_timestamp": "2024-04-23 09:13:05.929",
+  "cpf": "061.301.339-52"
+}

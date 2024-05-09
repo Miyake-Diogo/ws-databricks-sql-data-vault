@@ -1,1 +1,0 @@
-# ws-databricks-sql-data-vault
